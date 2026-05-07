@@ -6,8 +6,8 @@ class Calculator:
         print("Hello!")
 
 
-    def info(khulii, n):
-        khulii.n=n
+    def info(anyname, n):
+        anyname.n=n
 
         s=n**2
         c=n**3
